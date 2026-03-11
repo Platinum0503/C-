@@ -48,7 +48,6 @@ int main(){
     do {
         menu();
         cin >> input;
-
         switch(input){
             case 1: people.rutTien();
                 break;

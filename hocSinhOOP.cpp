@@ -9,7 +9,6 @@ class hocSinh{
         int tuoi;
         float diemToan;
         float diemVan;
-
     void nhapThongTin(){
         cout << "Nhap ten: ";
         getline(cin, ten); //đọc cả câu có dấu
