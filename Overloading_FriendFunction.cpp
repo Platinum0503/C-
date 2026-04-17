@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int ucln(int a, int b){
+int ucln(int a, int b){ // ước chung lớn nhất
     while(b != 0){
         int temp;
         temp = b;
